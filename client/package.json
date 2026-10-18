@@ -95,5 +95,10 @@
     "tabWidth": 2,
     "useTabs": false
   },
-  "homepage": "/secret/codilingual"
+  "homepage": "/secret/codilingual",
+  "overrides": {
+    "postcss-safe-parser": {
+      "postcss": "8.2.15"
+    }
+  }
 }
